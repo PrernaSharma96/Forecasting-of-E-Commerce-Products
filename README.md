@@ -1,4 +1,4 @@
-# Forecasting-of-E-Commerce-Retail-Products
+# Forecasting-of-E-Commerce-Products
 This project will showcase the overall trend in the United States marketplace regarding various products. Using the past values we will be forecasting the future sales' profit.
 It will give us a clear understanding if it will be beneficial in the future and will people continue to buy from E-commerce.
 
