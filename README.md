@@ -1,4 +1,4 @@
-# Data-forecasting-of-E-Commerce-in-United-States
+# Forecasting-of-E-Commerce-Retail-Products
 This project will showcase the overall trend in the United States marketplace regarding various products. Using the past values we will be forecasting the future sales' profit.
 It will give us a clear understanding if it will be beneficial in the future and will people continue to buy from E-commerce.
 
@@ -17,4 +17,4 @@ Manage ID: It is an ID unique for every row
 State: Different states within the United States ordered through E-Commerce
 Category: Different categories of items ordered through E-Commerce
 Profit: It represents profit
-Links to my group members' GitHub profiles: https://github.com/Jaihinduja/ and https://github.com/KaranS279.
+Links to my group members' GitHub profiles: [Jai Hinduja](https://github.com/Jaihinduja/) and [Karan Shah](https://github.com/KaranS279).
