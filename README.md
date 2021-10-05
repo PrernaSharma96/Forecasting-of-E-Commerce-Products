@@ -14,7 +14,6 @@ Received data from a very popular site Kaggle ( URL: https://www.kaggle.com/ ). 
 
 - Order date: This is a date format data, the date on which order was placed
 - Manage ID: It is an ID unique for every row
-- State: Different states within the United States ordered through E-Commerce
 - Category: Different categories of items ordered through E-Commerce
 - Profit: It represents profit
 
