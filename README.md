@@ -1,20 +1,20 @@
 # Data-forecasting-of-E-Commerce-in-United-States
-This project will showcase the overall trend in the United States marketplace regarding various products. Using the past values we will be forecasting the future sales' profit.
-It will give us a clear understanding if it will be beneficial in the future and will people continue to buy from E-commerce.
+This project will show what is the overall trend in the United States marketplace. It will give us a clear understanding if it will be beneficial in the future and will people continue to buy from E-commerce.
 
-We are going to perform time-series analysis on the data with respect to the weekly sales of E-Commerce in the United States. Predicting E-Commerce sales will help us predict whether there will be any benefit of shifting offline business to online.
+We performed a time-series analysis on the data with respect to the weekly sales of E-Commerce in the United States. Predicting E-Commerce sales will help us predict whether there will be any benefit of shifting offline business to online.
 
-We will be dividing the dataset in a 4:1 ratio, where we will be using the first part for forecasting the data and the other part (20% of the dataset) will be used to check the accuracy of the forecasted data. We will also be forecasting 20 data points from the future where the actual data is not available.
+We did two separate analysis on the data.
 
-The accuracy of the forecast can be measured by using methods that determine the forecasting errors. We will be using MAD, MSE, and MAPE methods on our dataset in order to check the accuracy of our forecast.
+Analysis I - Forecast accuracy comparison pre-covid To find the predicted value in an ideal case scenario for the Ecommerce profits by considering the pre covid data. Split the dataset into training and testing to calculate accuracy as per different methods.
 
-Our dataset consists of 73 rows and 4 variable columns. It is the one-year sales data of E-Commerce for every product. We will predict the sales of the product in this project and determine if it will be profitable or not.
+Analysis II - Difference between sale’s profit for Covid and non Covid period Forecasted the data for the next 3 months by considering pre covid period and calculated the difference of the actual profit made as compared to our predictions.
 
-Received data from a very popular site Kaggle ( URL: https://www.kaggle.com/ ). There are a huge amount of data sets available for various other fields. We have 4 columns of data explained as follows.
+Our dataset consists of 73 rows and 3 variable columns. It is the one year sales data of E-Commerce for every product. We predicted the sales of the product in this project and determined if it will be profitable or not.
 
-- Order date: This is a date format data, the date on which order was placed
-- Manage ID: It is an ID unique for every row
-- Category: Different categories of items ordered through E-Commerce
-- Profit: It represents profit
+Got data from a very popular site Kaggle ( URL: https://www.kaggle.com/ ). There are a huge amount of data sets available for various other fields. We have 4 columns of data explained as follows.
+
+Order date: This is a date format data, the date on which order was placed
+Category: Different categories of items ordered through E-Commerce
+Profit updated: It represents profit of the E commerce website of a company on a weekly basis.
 
 Links to my group members' GitHub profiles: [Jai Hinduja](https://github.com/Jaihinduja/) and [Karan Shah](https://github.com/KaranS279).
