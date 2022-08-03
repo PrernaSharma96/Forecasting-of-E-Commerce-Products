@@ -17,4 +17,4 @@ Order date: This is a date format data, the date on which order was placed
 Category: Different categories of items ordered through E-Commerce
 Profit updated: It represents profit of the E commerce website of a company on a weekly basis.
 
-Links to my group members' GitHub profiles: [Jai Hinduja](https://github.com/Jaihinduja/) and [Karan Shah](https://github.com/KaranS279).
+Links to my group members' GitHub profile: [Karan Shah](https://github.com/KaranS279).
